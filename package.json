@@ -1,0 +1,27 @@
+{
+  "name": "react-native-grasshopper",
+  "version": "1.0.0",
+  "description": "GOST 34-12 implementation for react-native",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yontal/react-native-grasshopper.git"
+  },
+  "keywords": [
+    "GOST",
+    "3412-2015"
+  ],
+  "author": "Yontal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Yontal/react-native-grasshopper/issues"
+  },
+  "homepage": "https://github.com/Yontal/react-native-grasshopper#readme",
+  "dependencies": {
+    "buffer": "^6.0.3",
+    "text-encoding": "^0.7.0"
+  }
+}
